@@ -1,0 +1,11 @@
+/Users/Britta/Documents/Arrays2/stringMethods/stringMethods/bin/Debug/netcoreapp3.0/stringMethods
+/Users/Britta/Documents/Arrays2/stringMethods/stringMethods/bin/Debug/netcoreapp3.0/stringMethods.deps.json
+/Users/Britta/Documents/Arrays2/stringMethods/stringMethods/bin/Debug/netcoreapp3.0/stringMethods.runtimeconfig.json
+/Users/Britta/Documents/Arrays2/stringMethods/stringMethods/bin/Debug/netcoreapp3.0/stringMethods.runtimeconfig.dev.json
+/Users/Britta/Documents/Arrays2/stringMethods/stringMethods/bin/Debug/netcoreapp3.0/stringMethods.dll
+/Users/Britta/Documents/Arrays2/stringMethods/stringMethods/bin/Debug/netcoreapp3.0/stringMethods.pdb
+/Users/Britta/Documents/Arrays2/stringMethods/stringMethods/obj/Debug/netcoreapp3.0/stringMethods.csprojAssemblyReference.cache
+/Users/Britta/Documents/Arrays2/stringMethods/stringMethods/obj/Debug/netcoreapp3.0/stringMethods.AssemblyInfoInputs.cache
+/Users/Britta/Documents/Arrays2/stringMethods/stringMethods/obj/Debug/netcoreapp3.0/stringMethods.AssemblyInfo.cs
+/Users/Britta/Documents/Arrays2/stringMethods/stringMethods/obj/Debug/netcoreapp3.0/stringMethods.dll
+/Users/Britta/Documents/Arrays2/stringMethods/stringMethods/obj/Debug/netcoreapp3.0/stringMethods.pdb

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{65713AEB-9DE9-4B4A-9589-7B7146D8741D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ShoppingList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Array2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Functsion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingList/Program.cs">
+    <Files>
+      <File FileName="stringMethods/Program.cs" Line="34" Column="14" />
+      <File FileName="Array2/Program.cs" Line="33" Column="1" />
+      <File FileName="Functsion/Program.cs" Line="16" Column="57" />
+      <File FileName="ShoppingList/Program.cs" Line="36" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.stringMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/Britta/Documents/Arrays2/stringMethods/ShoppingList/obj/Debug/netcoreapp3.0/ShoppingList.AssemblyInfoInputs.cache
+/Users/Britta/Documents/Arrays2/stringMethods/ShoppingList/obj/Debug/netcoreapp3.0/ShoppingList.AssemblyInfo.cs
+/Users/Britta/Documents/Arrays2/stringMethods/ShoppingList/bin/Debug/netcoreapp3.0/ShoppingList
+/Users/Britta/Documents/Arrays2/stringMethods/ShoppingList/bin/Debug/netcoreapp3.0/ShoppingList.deps.json
+/Users/Britta/Documents/Arrays2/stringMethods/ShoppingList/bin/Debug/netcoreapp3.0/ShoppingList.runtimeconfig.json
+/Users/Britta/Documents/Arrays2/stringMethods/ShoppingList/bin/Debug/netcoreapp3.0/ShoppingList.runtimeconfig.dev.json
+/Users/Britta/Documents/Arrays2/stringMethods/ShoppingList/bin/Debug/netcoreapp3.0/ShoppingList.dll
+/Users/Britta/Documents/Arrays2/stringMethods/ShoppingList/bin/Debug/netcoreapp3.0/ShoppingList.pdb
+/Users/Britta/Documents/Arrays2/stringMethods/ShoppingList/obj/Debug/netcoreapp3.0/ShoppingList.dll
+/Users/Britta/Documents/Arrays2/stringMethods/ShoppingList/obj/Debug/netcoreapp3.0/ShoppingList.pdb

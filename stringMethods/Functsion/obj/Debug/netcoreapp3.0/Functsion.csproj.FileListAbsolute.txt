@@ -1,0 +1,10 @@
+/Users/Britta/Documents/Arrays2/stringMethods/Functsion/bin/Debug/netcoreapp3.0/Functsion
+/Users/Britta/Documents/Arrays2/stringMethods/Functsion/bin/Debug/netcoreapp3.0/Functsion.deps.json
+/Users/Britta/Documents/Arrays2/stringMethods/Functsion/bin/Debug/netcoreapp3.0/Functsion.runtimeconfig.json
+/Users/Britta/Documents/Arrays2/stringMethods/Functsion/bin/Debug/netcoreapp3.0/Functsion.runtimeconfig.dev.json
+/Users/Britta/Documents/Arrays2/stringMethods/Functsion/bin/Debug/netcoreapp3.0/Functsion.dll
+/Users/Britta/Documents/Arrays2/stringMethods/Functsion/bin/Debug/netcoreapp3.0/Functsion.pdb
+/Users/Britta/Documents/Arrays2/stringMethods/Functsion/obj/Debug/netcoreapp3.0/Functsion.AssemblyInfoInputs.cache
+/Users/Britta/Documents/Arrays2/stringMethods/Functsion/obj/Debug/netcoreapp3.0/Functsion.AssemblyInfo.cs
+/Users/Britta/Documents/Arrays2/stringMethods/Functsion/obj/Debug/netcoreapp3.0/Functsion.dll
+/Users/Britta/Documents/Arrays2/stringMethods/Functsion/obj/Debug/netcoreapp3.0/Functsion.pdb
